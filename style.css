@@ -1,0 +1,27 @@
+
+#nav{
+    border: solid 1px black;
+    background-color: pink;
+    display: inline-block;
+    width: 29%;
+
+
+    
+}
+
+#post{
+    float: right;
+    background-color:lightblue;
+    border: solid 1px black;
+    display: inline-block;
+    width: 69%;
+    display: block;
+    
+}
+
+#footer{
+    background-color:grey;
+    border: solid 1px black;
+    display: block;
+    width: 100%;
+}
